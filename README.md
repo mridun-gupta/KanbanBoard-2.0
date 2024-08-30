@@ -10,7 +10,7 @@ The inspiration for this project came from a desire to create a more robust and 
 - **Handcrafted Design**: A clean and polished interface that is as functional as it is visually appealing.
 - **Local Storage Integration**: Utilizes JSON format to store your tasks and project data locally, making it easy to pick up right where you left off.
 - **Fully Responsive**: Designed to work seamlessly across devices, whether you're on a desktop, tablet, or smartphone.
-- ****:
+- **Easy to Use**: With an intuitive drag-and-drop interface, managing your tasks has never been simpler.
 
 ## How to Get It Personalized for You?
 
@@ -20,7 +20,7 @@ The inspiration for this project came from a desire to create a more robust and 
 
 ## How to Use It?
 
-- **Open the KanbanBoard**: Access the [website](https://KanbanBoard.ship.mridungupta.eu.org) and start managing your tasks temporarily on the go.
+- **Open the KanbanBoard**: Access the [website](https://KanbanBoard-2.0.ship.mridungupta.eu.org) and start managing your tasks temporarily on the go.
 - **Add Tasks**: Create tasks and place them in the appropriate columns.
 - **Drag and Drop**: Move tasks between columns to update their status.
 ---
